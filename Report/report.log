@@ -1,0 +1,485 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.4)  2 NOV 2015 22:40
+entering extended mode
+**report.tex
+("C:\Users\Rafael\Documents\UBC\EECE412\David Report Layout\report.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 503.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using IEEE Computer Society mode.
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <11.04124> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.06374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <17.06374> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pbox\pbox.sty"
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count94
+\calc@Bcount=\count95
+\calc@Adimen=\dimen126
+\calc@Bdimen=\dimen127
+\calc@Askip=\skip44
+\calc@Bskip=\skip45
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count96
+\calc@Cskip=\skip46
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\pb@xlen=\skip47
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count97
+))
+\Gin@req@height=\dimen128
+\Gin@req@width=\dimen129
+)
+("C:\Users\Rafael\Documents\UBC\EECE412\David Report Layout\report.aux"
+
+LaTeX Warning: Label `fig:print1' multiply defined.
+
+
+LaTeX Warning: Label `fig:print1' multiply defined.
+
+
+LaTeX Warning: Label `fig:print1' multiply defined.
+
+
+LaTeX Warning: Label `citation:originalreport' multiply defined.
+
+
+LaTeX Warning: Label `citation:originalreport' multiply defined.
+
+
+LaTeX Warning: Label `citation:originalreport' multiply defined.
+
+
+LaTeX Warning: Label `citation:originalreport' multiply defined.
+
+
+LaTeX Warning: Label `citation:originalreport' multiply defined.
+
+
+LaTeX Warning: Label `citation:originalreport' multiply defined.
+
+
+LaTeX Warning: Label `citation:originalreport' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 528.
+LaTeX Font Info:    ... okay on input line 528.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 528.
+LaTeX Font Info:    ... okay on input line 528.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 528.
+LaTeX Font Info:    ... okay on input line 528.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 528.
+LaTeX Font Info:    ... okay on input line 528.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 528.
+LaTeX Font Info:    ... okay on input line 528.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 528.
+LaTeX Font Info:    ... okay on input line 528.
+
+-- Lines per column: 61 (exact).
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen130
+\scratchbox=\box28
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen131
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks17
+)
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 628.
+
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 62
+8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11.04124> on input line 628.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.72884> on input line 628.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.52061> on input line 628.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 628.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 653.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
+
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 653.
+LaTeX Font Info:    Calculating math sizes for size <9.53561> on input line 673
+.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.53561> on input line 673.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6.6749> on input line 673.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.7678> on input line 673.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 729.
+
+Overfull \hbox (26.23679pt too wide) in paragraph at lines 738--739
+[]\OT1/ppl/b/n/9.53561 t#eKyJ[]Zue!VjV4x-5dU)lnbSCISl##vb%Mq#JBrWMyt^usgFe-
+ []
+
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+<print1.png, id=13, 768.62157pt x 581.92406pt>
+File: print1.png Graphic file (type png)
+ <use print1.png>
+Package pdftex.def Info: print1.png used on input line 773.
+(pdftex.def)             Requested size: 256.0748pt x 193.87357pt.
+
+Overfull \hbox (3.1298pt too wide) in paragraph at lines 773--775
+ [] 
+ []
+
+<print2.png, id=14, 794.97pt x 585.68813pt>
+File: print2.png Graphic file (type png)
+ <use print2.png>
+Package pdftex.def Info: print2.png used on input line 780.
+(pdftex.def)             Requested size: 256.0748pt x 188.66624pt.
+
+Overfull \hbox (3.1298pt too wide) in paragraph at lines 780--782
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
+[]\OT1/ppl/m/n/9.53561 After the changes be-ing made I ex-ported
+ []
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 784--785
+\OT1/ppl/m/n/9.53561 the .dif file us-ing the ADA soft-ware. To ap-ply
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 784--785
+\OT1/ppl/m/n/9.53561 the changes I ex-e-cuted the C code avail-able at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 784--785
+\OT1/ppl/m/it/9.53561 http://idabook.com/examples/chapter[]14/ida[]patcher.c\OT
+1/ppl/m/n/9.53561 . Af-ter
+ []
+
+
+Underfull \hbox (badness 7595) in paragraph at lines 795--796
+[]\OT1/ppl/m/n/9.53561 The soft-ware can be down-loaded for free at
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 810--811
+[] \OT1/ppl/b/n/9.53561 .cu-d-a-Hash-cat64.exe -m 100 -a 3 -1 'abcde-fghi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--811
+\OT1/ppl/b/n/9.53561 jklmnopqrstu-vwxyz-ABCDE-FGHI-JKLMNOPQRSTU-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--814
+[]\OT1/ppl/m/n/9.53561 Here is the out-put of the hash-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 812--814
+\OT1/ppl/m/n/9.53561 cat pro-gram af-ter crack-ing that hash
+ []
+
+
+Overfull \hbox (17.0166pt too wide) in paragraph at lines 820--821
+[]\OT1/ppl/m/n/9.53561 Hash.Target....: 21f0e9b168b2d5870906f1b86693754c0ddae05
+c 
+ []
+
+[2 <C:/Users/Rafael/Documents/UBC/EECE412/David Report Layout/print1.png> <C:/U
+sers/Rafael/Documents/UBC/EECE412/David Report Layout/print2.png>]
+<print3.png, id=18, 660.96938pt x 519.44063pt>
+File: print3.png Graphic file (type png)
+ <use print3.png>
+Package pdftex.def Info: print3.png used on input line 852.
+(pdftex.def)             Requested size: 256.0748pt x 201.24945pt.
+
+Overfull \hbox (3.1298pt too wide) in paragraph at lines 852--854
+ [] 
+ []
+
+<print4.png, id=19, 1445.4pt x 813.0375pt>
+File: print4.png Graphic file (type png)
+ <use print4.png>
+Package pdftex.def Info: print4.png used on input line 860.
+(pdftex.def)             Requested size: 512.1496pt x 288.07826pt.
+
+Overfull \hbox (259.2046pt too wide) in paragraph at lines 860--862
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 865--866
+[]\OT1/ppl/m/n/9.53561 After the changes be-ing made I ex-ported
+ []
+
+
+Underfull \hbox (badness 6708) in paragraph at lines 865--866
+\OT1/ppl/m/n/9.53561 the .dif file us-ing the ADA soft-ware. To ap-ply
+ []
+
+
+Underfull \hbox (badness 6412) in paragraph at lines 865--866
+\OT1/ppl/m/n/9.53561 the changes I ex-e-cuted the C code avail-able at
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 865--866
+\OT1/ppl/m/it/9.53561 http://idabook.com/examples/chapter[]14/ida[]patcher.c\OT
+1/ppl/m/n/9.53561 . Af-ter
+ []
+
+<print5.png, id=20, 661.72218pt x 537.50812pt>
+File: print5.png Graphic file (type png)
+ <use print5.png>
+Package pdftex.def Info: print5.png used on input line 875.
+(pdftex.def)             Requested size: 256.0748pt x 208.00339pt.
+
+Overfull \hbox (3.1298pt too wide) in paragraph at lines 875--877
+ [] 
+ []
+
+[3 <C:/Users/Rafael/Documents/UBC/EECE412/David Report Layout/print3.png> <C:/U
+sers/Rafael/Documents/UBC/EECE412/David Report Layout/print4.png> <C:/Users/Raf
+ael/Documents/UBC/EECE412/David Report Layout/print5.png>]
+Underfull \hbox (badness 6252) in paragraph at lines 932--933
+\OT1/ppl/m/n/9.53561 All the codes for this project can be found at
+ []
+
+Missing character: There is no â in font pplr7t!
+Missing character: There is no € in font pplr7t!
+Missing character: There is no ” in font pplr7t!
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 941.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8.03> on input line 941.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5.62097> on input line 941.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <4.015> on input line 941.
+Missing character: There is no â in font pplr7t!
+Missing character: There is no € in font pplr7t!
+Missing character: There is no ” in font pplr7t!
+
+Underfull \hbox (badness 10000) in paragraph at lines 944--945
+$\OT1/ppl/m/n/8.03 / / stackoverow . com / questions / 10082094 / generate -[]
+ all -[] possible -[]$
+ []
+
+
+Underfull \hbox (badness 4291) in paragraph at lines 947--948
+[]\OT1/ppl/m/n/8.03 IDA: about [On-line]. Avail-able: $https : / / www . hex -[
+] rays . com /$
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 956--957
+[]\OT1/ppl/m/n/8.03 [Online]. Avail-able: $http : / / idabook . com / examples 
+/ chapter[]14 /$
+ []
+
+[4
+
+] ("C:\Users\Rafael\Documents\UBC\EECE412\David Report Layout\report.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2406 strings out of 493921
+ 38475 string characters out of 3144874
+ 94337 words of memory out of 3000000
+ 5695 multiletter control sequences out of 15000+200000
+ 37561 words of font info for 83 fonts, out of 3000000 for 9000
+ 844 hyphenation exceptions out of 8191
+ 28i,6n,22p,521b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/
+type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/ur
+w/palatino/uplri8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/zapfd
+ing/uzdr.pfb>
+Output written on report.pdf (4 pages, 256561 bytes).
+PDF statistics:
+ 53 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
